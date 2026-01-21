@@ -1,3 +1,5 @@
+Copyright (C) 2026 #CyberFraudBountyHynters
+
 # Read Me Template
 
 ![Project Image](project-image-url)
