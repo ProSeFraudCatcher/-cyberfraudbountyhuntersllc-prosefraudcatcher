@@ -1,4 +1,4 @@
-Copyright (C) 2026 #CyberFraudBountyHynters
+Copyright (C) 2026 #CyberFraudBountyHunters
 
 # Read Me Template
 
